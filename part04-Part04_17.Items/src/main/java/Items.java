@@ -9,6 +9,15 @@ public class Items {
 
         ArrayList<Item> items = new ArrayList<>();
         Scanner scanner = new Scanner(System.in);
-
+        while(true){
+            String input = scanner.nextLine();
+            if(input.equals("")){
+                break;
+            }
+            items.add(new Item(input));
+        }
+        for(Item item:items){
+            System.out.println(item);
+        }
     }
 }
