@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cbd314f-551b-4a69-b931-8264b7778bb2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../part02-Part02_27.NumberUno/src/main/java/NumberUno.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_27.NumberUno/src/main/java/NumberUno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../part02-Part02_28.Word/src/main/java/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_28.Word/src/main/java/Word.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../part02-Part02_29.Summation/src/main/java/Summation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_29.Summation/src/main/java/Summation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../part02-Part02_30.Smallest/src/main/java/Smallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_30.Smallest/src/main/java/Smallest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../part02-Part02_31.Greatest/src/main/java/Greatest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_31.Greatest/src/main/java/Greatest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../part02-Part02_32.Averaging/src/main/java/Averaging.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_32.Averaging/src/main/java/Averaging.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../part02-Part02_33.StarSign/src/main/java/StarSign.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_33.StarSign/src/main/java/StarSign.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../part02-Part02_34.AdvancedAstrology/src/main/java/AdvancedAstrology.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_34.AdvancedAstrology/src/main/java/AdvancedAstrology.java" afterDir="false" />
-    </list>
+    <list default="true" id="8cbd314f-551b-4a69-b931-8264b7778bb2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +49,7 @@
       <workItem from="1670932054533" duration="22000" />
       <workItem from="1670943238657" duration="857000" />
       <workItem from="1670948974321" duration="5000" />
+      <workItem from="1675860341395" duration="27000" />
     </task>
     <servers />
   </component>
